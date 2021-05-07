@@ -41,6 +41,8 @@
     "jwtSecretKey": "Mjk3ZWJmNWUxMzY3OTYzYTZhMjFmMTBhZTljZTAzNjJmNzJiNmI2YjY1NWMzNDQ3NjA0OGFjZTA4YzE4YTdmOTIyNWRhMTlmYzEzYWI5MTJmZWFkZmJhMDQzZjVhMWRmYzA1MzA0OTM4ZmJkMzI0ZmFkZTFkMWIyZDhmOWVkMTM=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1620395697000,
+    "entities": ["Plan"]
   }
 }
